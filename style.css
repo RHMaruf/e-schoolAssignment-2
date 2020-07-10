@@ -29,12 +29,49 @@ header{
 
 .learn-anything{
     background-color: #F8FFFB;
+    border-radius: 10px;
 }
+
 .learn-anything img{
     height: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
+}
+.facilities{
+    border-radius: 10px;
+    padding: 50px 10px;
+}
+.facilities img{
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+.card{
+    border:none;
+}
+.card-footer{
+    border-top: none;
+}
+.card-footer img{
+    height: 20px;
+   
+}
+
+.men-image{
+    border-radius: 50%;
+    position: relative;
+    float: right;
+    height: 100px;
+}
+
+footer{
+    margin-top: 100px;
+    background-color: #282531;
+    color: white;
+    padding: 50px 100px 0px 100px;
 }
 
